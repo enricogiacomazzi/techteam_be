@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "dipYGu4RieR51lYZjOSGH0x2INJ3EgptmOhqN45YYlicFtNNBWheZX3s3up9zSqQ6kytIEzFkSEZKDqeO8XEUQ==",
+  "success": true,
+  "projectFilePath": "/Users/jack/Documents/Work/Formazione/techteam/TechTeam_BE/Infrastructure/Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/jack/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512",
+    "/Users/jack/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/jack/.nuget/packages/microsoft.extensions.dependencymodel/6.0.0/microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "/Users/jack/.nuget/packages/scrutor/4.2.0/scrutor.4.2.0.nupkg.sha512",
+    "/Users/jack/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/jack/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/jack/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/jack/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/jack/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
