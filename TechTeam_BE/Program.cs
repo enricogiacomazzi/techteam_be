@@ -65,7 +65,14 @@ app.MapPost("/login", async (LoginUser credential) =>
 
 app.MapPost("/refresh", (RefreshModel model) =>
 {
-    return Results.Ok(jwtManager.Refresh(model.refreshToken));
+    try
+    {
+        return Results.Ok(jwtManager.Refresh(model.refreshToken));
+    }
+    catch (Exception e)
+    {
+        return Results.Unauthorized();
+    }
 }).AllowAnonymous();
 
 app.MapGet("/users", async ([FromServices] IUserService repo) =>
